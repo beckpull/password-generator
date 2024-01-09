@@ -64,7 +64,7 @@ function generatePassword() {
 }
 
 
-// STARTER CODE: I commented some out to prevent errors in the console; can revise if needed?
+// STARTER CODE: I commented some out to prevent errors in the console; can revise if needed!
 
 // Get references to the #generate element
 // var generateBtn = document.querySelector("#generate");
