@@ -64,7 +64,7 @@ function generatePassword() {
 }
 
 
-// STARTER CODE:
+// STARTER CODE: I commented some out to prevent errors in the console; can revise if needed?
 
 // Get references to the #generate element
 // var generateBtn = document.querySelector("#generate");
@@ -79,4 +79,4 @@ function writePassword() {
 }
 
 // Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
+// generateBtn.addEventListener("click", writePassword);
