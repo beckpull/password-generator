@@ -17,6 +17,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -45,8 +46,6 @@ This is what you can expect to see upon opening the page:
 > I utilized several Javascript articles from sources such as (but not limited to) Stack Overflow, W3Schools, and MDN Web Docs as references for certain sections of the javascript code attached. 
 >
 >**All of the utilized information has been altered in order to fit this project.** 
->
->This README file was built using: https://github.com/othneildrew/Best-README-Template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,5 +97,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 >Project Link: [https://github.com/beckpull/password-generator](https://github.com/beckpull/password-generator)
 >
 >Deployed Page: [https://beckpull.github.io/password-generator/](https://beckpull.github.io/password-generator/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* This README file was created using the template found at: https://github.com/othneildrew/Best-README-Template 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
