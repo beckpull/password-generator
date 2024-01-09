@@ -46,14 +46,17 @@ This is what you can expect to see upon opening the page:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This section outlines each step in this simple and easy-to-navigate password generating process.
+This section outlines each step in this simple and easy-to-navigate password generating process upon clicking "Generate Password".
 
-![Password Generator Screenshot](./assets/picture-7.png)
 ![Password Generator Screenshot](./assets/step-2.png)
 ![Password Generator Screenshot](./assets/step-3.png)
 ![Password Generator Screenshot](./assets/step-4.png)
 ![Password Generator Screenshot](./assets/step-5.png)
 ![Password Generator Screenshot](./assets/picture-6.png)
+
+And then, in case password neds copied or written down, it will show on the webpage as displayed below until user refreshes page!
+
+![Password Generator Screenshot](./assets/picture-7.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,9 +69,9 @@ _If you have a suggestion that would make this better, please fork the repo and 
 Don't forget to give the project a star! Thanks again!_
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
+3. Commit your Changes (`git commit -m 'Added ______ , NewFeature'`)
+4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
