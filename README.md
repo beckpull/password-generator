@@ -45,6 +45,8 @@ This is what you can expect to see upon opening the page:
 > I utilized several Javascript articles from sources such as (but not limited to) Stack Overflow, W3Schools, and MDN Web Docs as references for certain sections of the javascript code attached. 
 >
 >**All of the utilized information has been altered in order to fit this project.** 
+>
+>This README file was built using: https://github.com/othneildrew/Best-README-Template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
