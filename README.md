@@ -41,7 +41,10 @@ This is what you can expect to see upon opening the page:
 * HTML
 * CSS
   
-> I utilized several Javascript articles from sources such as (but not limited to) Stack Overflow, W3Schools, and MDN Web Docs as references for certain sections of the javascript code attached. All of the information received has been altered to fit this assignment. 
+#### Disclaimer: 
+> I utilized several Javascript articles from sources such as (but not limited to) Stack Overflow, W3Schools, and MDN Web Docs as references for certain sections of the javascript code attached. 
+>
+>**All of the utilized information has been altered in order to fit this project.** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
