@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * This README file was created using the template found at: https://github.com/othneildrew/Best-README-Template
 
 #### Disclaimer: 
-> I utilized several Javascript articles from sources such as (but not limited to) Stack Overflow, W3Schools, and MDN Web Docs **as references** for the majority of the javascript code attached. 
+> I utilized several Javascript articles from sources such as (but not limited to) Stack Overflow, W3Schools, and MDN Web Docs **as references** for the javascript code attached. 
 >
 >**All of the utilized information has been altered in order to fit this project.** 
 
