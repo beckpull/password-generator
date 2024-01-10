@@ -3,10 +3,10 @@
 function generatePassword() {
 
   // Define character sets for each type of character
-  const lowercaseChars = 'abcdefghijklmnopqrstuvwxyz';
-  const uppercaseChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-  const numericChars = '0123456789';
-  const specialChars = '!@#$%^&*()-=_+[]{}|;:,.<>?';
+  const lowercaseCharacters = 'abcdefghijklmnopqrstuvwxyz';
+  const uppercaseCharacters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+  const numericCharacters = '0123456789';
+  const specialCharacters = '!@#$%^&*()-=_+[]{}|;:,.<>?';
 
   // Prompt for password length
   let passwordLength = prompt('Choose a password length between 8 and 128 characters:');
@@ -41,17 +41,17 @@ function generatePassword() {
   }
 
   // Combine selected character sets
-  let acceptedChars = '';
-  if (includeLowercase) acceptedChars += lowercaseChars;
-  if (includeUppercase) acceptedChars += uppercaseChars;
-  if (includeNumeric) acceptedChars += numericChars;
-  if (includeSpecial) acceptedChars += specialChars;
+  let acceptedCharacters = '';
+  if (includeLowercase) acceptedCharacters += lowercaseCharacters;
+  if (includeUppercase) acceptedCharacters += uppercaseCharacters;
+  if (includeNumeric) acceptedCharacters += numericCharacters;
+  if (includeSpecial) acceptedCharacters += specialCharacters;
 
   // Generate password
   let newPassword = '';
   for (let i = 0; i < passwordLength; i++) {
-    let randomIndex = Math.floor(Math.random() * acceptedChars.length);
-    newPassword += acceptedChars.charAt(randomIndex);
+    let randomIndex = Math.floor(Math.random() * acceptedCharacters.length);
+    newPassword += acceptedCharacters.charAt(randomIndex);
   }
 
   // Display the generated password within the placeholder
