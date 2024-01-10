@@ -9,7 +9,7 @@ function generatePassword() {
   const specialCharacters = '!@#$%^&*()-=_+[]{}|;:,.<>?';
 
   // Prompt user for preferred password length
-  let passwordLength = prompt('Choose a password length between 8 and 128 characters:');
+  let passwordLength = prompt('Choose a password length between 8 and 128 characters.');
   
   // Validate that user entered a number in between 8 and 128 for password length
   while (
@@ -17,7 +17,7 @@ function generatePassword() {
     passwordLength > 128 ||
     isNaN(passwordLength)
     ) {
-    passwordLength = prompt('Please enter a valid password length between 8 and 128 characters:');
+    passwordLength = prompt('Choose a password length between 8 and 128 characters. Only numbers between 8 and 128  may be entered.');
   }
 
   // User confirms which character types to include in their password
