@@ -13,9 +13,9 @@ function generatePassword() {
   
   // Validate password length
   while (
-    isNaN(passwordLength) || 
-    passwordLength < 8 || 
-    passwordLength > 128
+    passwordLength < 8 ||
+    passwordLength > 128 ||
+    isNaN(passwordLength)
     ) {
     passwordLength = prompt('Please enter a valid password length between 8 and 128 characters:');
   }
